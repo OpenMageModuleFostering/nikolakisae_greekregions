@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Nikolakisae_GreekRegions",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL)",
+    "homepage": "",
+    "description": "List of Greek Regions.",
+    "authors": [
+    {
+        "name": "Niko K",
+        "email": "info@nikolakisae.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
