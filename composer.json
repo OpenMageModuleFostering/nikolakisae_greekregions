@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Nikolakisae_GreekRegions",
+    "name": "openmage-module-fostering\/nikolakisae_greekregions",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "List of Greek Regions.",
     "authors": [
